@@ -1,6 +1,6 @@
 #!/bin/bash
 #Purpose : To display the message.
-#Author : DevSafia
+#Author : Vinesh
 #Date : 27 February 2023
 
 echo " ******************************************* SHELL SCRIPTING *************************************** "
